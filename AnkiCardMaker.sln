@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AnkiCardMaker", "AnkiCardMaker\AnkiCardMaker.pyproj", "{BEFEEA98-29C7-4CAF-861A-F89A3451260E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFEEA98-29C7-4CAF-861A-F89A3451260E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFEEA98-29C7-4CAF-861A-F89A3451260E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC0C5AF-6ADF-4B2D-89AF-AB6C8F450024}
+	EndGlobalSection
+EndGlobal
